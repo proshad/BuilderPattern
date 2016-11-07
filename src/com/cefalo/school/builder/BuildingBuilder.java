@@ -9,4 +9,5 @@ public interface BuildingBuilder {
     public void buildRoof();
     public void buildDoor();
     public void buildWindow();
+    public House getHouse();
 }
