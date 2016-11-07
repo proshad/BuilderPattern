@@ -6,7 +6,7 @@ package com.cefalo.school.builder;
 public class GlassHouseBuilder implements BuildingBuilder {
     @Override
     public void buildFloor() {
-        
+
     }
 
     @Override

@@ -6,7 +6,7 @@ package com.cefalo.school.builder;
 public class BrickHouseBuilder implements BuildingBuilder {
     @Override
     public void buildFloor() {
-        
+
     }
 
     @Override
